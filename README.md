@@ -1,4 +1,4 @@
-# 🎓 EXcelerate Virtual Internship – AI-Powered Data Insights
+# 🎓 Excelerate Virtual Internship – AI-Powered Data Insights
 
 ✨ Successfully completed the **EXcelerate: AI-Powered Data Insights Virtual Internship** as an **AI Data Analyst**  
 👥 Collaborated with: Kiroll F Kirollos  
