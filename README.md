@@ -6,11 +6,12 @@
 
 ---
 
-## 🔍 Project Overview
+🔍 Project Overview
+Over four intensive weeks, we worked hands-on with real-world learner data to develop a complete AI-powered data solution aimed at predicting student churn and enhancing engagement for digital learning platforms.
 
-Over 4 enriching weeks, we worked hands-on with **real-world learner data** to develop a **full-cycle AI-powered data solution** for predicting student churn and boosting engagement in online learning platforms.
+📊 Our analysis covered 8,500+ anonymized student records, applying data science methods to extract insights, build predictive models, and recommend actionable interventions.
 
-📊 Analyzed data from **8,500+ student records** and created models, visualizations, and insights to inform digital education strategy.
+🔐 Note: The datasets and detailed reports used in this project are confidential and may only be shared under specific conditions. Please reach out if you require access for academic or professional purposes, and it will be considered on a case-by-case basis.
 
 ---
 
